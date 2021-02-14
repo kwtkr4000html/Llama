@@ -1,0 +1,12 @@
+> perl my_defined.pl 
+
+The input was 
+
+> perl my_defined.pl
+hello, world.
+The input was hello, world.
+
+> perl my_defined.pl
+
+No input available
+

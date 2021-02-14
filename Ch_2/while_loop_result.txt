@@ -1,0 +1,33 @@
+> perl while_loop.pl 
+count is now 2
+count is now 4
+count is now 6
+count is now 8
+count is now 10
+
+> perl while_loop.pl
+count is now 2
+count is now 4
+count is now 6
+count is now 8
+count is now 10
+more text
+
+more text
+more text
+
+more text
+more text
+more text
+
+more text
+more text
+more text
+more text
+
+more text
+more text
+more text
+more text
+more text
+

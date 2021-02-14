@@ -1,0 +1,6 @@
+> perl v_interpolation.pl
+Name "main::fred" used only once: possible typo at v_interpolation.pl line 10.
+fried ate a brontosaurus steak
+fried ate a brontosaurus steak
+The name is $fred.
+The name is $fred.

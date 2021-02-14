@@ -1,0 +1,10 @@
+> perl product.pl 
+5
+10
+50
+
+> perl product.pl
+-5
+100
+-500
+

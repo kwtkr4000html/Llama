@@ -1,0 +1,20 @@
+> perl my_program.pl 
+Hello, world!
+> perl my_program_2.pl
+Hello, world!
+
+> perl -e 'print "Hello, World\n"'
+Hello, World
+> perl -le 'print "Hello, World"'
+Hello, World
+> perl -E 'say q(Hello, World)'
+Hello, World
+
+> chmod a+x my_program.pl
+> ./my_program.pl 
+Hello, world!
+> chmod a+x my_program_2.pl
+> ./my_program_2.pl
+Hello, world!
+> ls
+my_program.pl*   my_program_2.pl*

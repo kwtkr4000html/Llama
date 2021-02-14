@@ -1,0 +1,2 @@
+> perl sum.pl 
+The total was 25.

@@ -1,0 +1,7 @@
+> perl steak.pl
+Name "main::whats" used only once: possible typo at steak.pl line 10.
+Use of uninitialized value $whats in concatenation (.) or string at steak.pl line 10.
+fred ate 3 .
+fred ate 3 brontonsaurs steaks.
+fred ate 3 brontonsaurs steaks.
+fred ate 3 brontonsaurs steaks.

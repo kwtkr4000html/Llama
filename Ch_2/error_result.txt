@@ -1,0 +1,19 @@
+> perl error.pl
+17
+
+> perl error.pl
+Argument "12fred34" isn't numeric in addition (+) at test.pl line 5.
+17
+
+> perl error.pl 
+Argument "12fred34" isn't numeric in addition (+) at error.pl line 6 (#1)
+    (W numeric) The indicated string was fed as an argument to an operator
+    that expected a numeric value instead.  If you're fortunate the message
+    will identify which operator was so unfortunate.
+    
+    Note that for the Inf and NaN (infinity and not-a-number) the
+    definition of "numeric" is somewhat unusual: the strings themselves
+    (like "Inf") are considered numeric, and anything following them is
+    considered non-numeric.
+    
+17

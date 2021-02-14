@@ -1,0 +1,9 @@
+> perl my_print.pl 
+The answer is 42.
+
+> perl my_print.pl
+The answer is 42.
+
+> perl my_print.pl
+The answer is 42.
+

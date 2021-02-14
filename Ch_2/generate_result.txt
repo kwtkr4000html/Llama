@@ -1,0 +1,12 @@
+> perl generate.pl
+Wide character in say at generate.pl line 13.
+א
+Wide character in say at generate.pl line 14.
+α
+Wide character in say at generate.pl line 15.
+ω
+Wide character in say at generate.pl line 16.
+αω
+Wide character in say at generate.pl line 17.
+αω
+32

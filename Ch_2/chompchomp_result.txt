@@ -1,0 +1,21 @@
+> perl chompchomp.pl
+hello 
+That line of input was: hello
+
+> perl chompchomp.pl
+
+That was just a blank line!
+
+> perl chompchomp.pl
+
+That line of input was: 
+
+> perl chompchomp.pl
+hello
+That line of input was: hello
+
+> perl chompchomp.pl
+ok
+yes
+That line of input was: yes
+1

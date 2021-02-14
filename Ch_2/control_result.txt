@@ -1,0 +1,24 @@
+> perl control.pl 
+Use of uninitialized value $name in string gt at control.pl line 7.
+Use of uninitialized value $name in concatenation (.) or string at control.pl line 10.
+'' does not come after 'fred'.
+Maybe it's the same string, in fact.
+
+> perl control.pl
+Argument "fred" isn't numeric in numeric gt (>) at control.pl line 9.
+Argument "yesman" isn't numeric in numeric gt (>) at control.pl line 9.
+'yesman' does not come after 'fred'.
+Maybe it's the same string, in fact.
+
+> perl control.pl
+'yesman' comes after 'fred' in sorted order.
+
+> perl control.pl
+'yesman' does not come after 'fred'.
+Maybe it's the same string, in fact.
+
+> perl control.pl
+'yesman' does not come after 'fred'.
+Maybe it's the same string, in fact.
+1
+	## 0なるものが返ってきている？

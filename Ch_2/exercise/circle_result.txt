@@ -1,0 +1,14 @@
+> perl circle.pl 
+78.53981635
+
+> perl circle.pl
+12.5
+78.53981635
+
+> perl circle.pl
+0
+0
+
+> perl circle.pl
+-12.5
+0

@@ -1,0 +1,13 @@
+> perl fredfredfred.pl
+fred
+3
+fred
+fred
+fred
+
+> perl fredfredfred.pl
+fred
+3
+fred
+fred
+fred
