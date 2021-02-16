@@ -12,11 +12,11 @@ $cir_len = $radius * 2 * $pi;
 
 $input_radius = <STDIN>;
 
-if ( $input_radius > 0 ){
+if ( $input_radius > 0 ) {
   $cir_len = $input_radius * 2 * $pi;
   say $cir_len;
 } else {
-  if ( $input_radius <= 0 ){
+  if ( $input_radius <= 0 ) {
     say 0;
   }
 }

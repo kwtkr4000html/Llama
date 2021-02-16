@@ -12,7 +12,7 @@ $still_false = !! '0';
 
 #if ($name gt 'fred'){
 #if ($is_bigger){
-if (!$is_bigger){
+if ( !$is_bigger ) {
   say "'$name' comes after 'fred' in sorted order.";
 } else {
   say "'$name' does not come after 'fred'.";

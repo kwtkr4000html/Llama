@@ -1,0 +1,8 @@
+___(1)___
+There are 2 pineapples.
+There are 2 apples.
+___(2)___
+this is wrong
+this is right[3]
+this is right[3]
+this is right[3]

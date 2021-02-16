@@ -6,7 +6,7 @@ use v5.10;
 
 $next_line = <STDIN>;
 $next_line = undef;
-if ( defined($next_line) ){
+if ( defined($next_line) ) {
   say "The input was $next_line";
 } else {
   say "No input available";

@@ -12,7 +12,7 @@ $betty = chomp $food;
 
 #if ($line eq "\n"){
 #if (chomp($text) eq "\n"){
-if (chomp($text = <STDIN>) eq "\n"){
+if ( chomp($text = <STDIN>) eq "\n" ) {
   say "That was just a blank line!";
 } else {
   #say "That line of input was: $line";

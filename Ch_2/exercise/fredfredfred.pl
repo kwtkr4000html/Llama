@@ -9,7 +9,7 @@ $num = <STDIN>;
 
 
 #$count = 0;
-#while ($count != $num){
+#while ( $count != $num ) {
 #  print $string;
 #  $count += 1;
 #}

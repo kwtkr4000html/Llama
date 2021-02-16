@@ -1,0 +1,7 @@
+> perl this_is_perl.pl
+hello
+hello				
+perl
+perl				
+1st
+1st

@@ -1,0 +1,44 @@
+___(1)___
+$fred, $barney, $dino : filestone, rubble, undef
+___(2)___
+$fred, $barney : rubble, filestone
+___(3)___
+$rocks[0], $rocks[1], $rocks[2], $rocks[3] : talc, mica, feldspar, quartz
+___(4)___
+@arr : apple banana cherry
+@tiny : 
+@giant : abridge
+@stuff : abridge
+$dino : granite
+@quarry : apple banana cherry crushed rock granite
+___(5)___
+@copy : apple banana cherry
+___pop___
+@array  : 5 6 7 8 9
+@array  : 5 6 7 8   $fred   : 9
+@array  : 5 6 7     $barney : 8
+@array  : 5 6
+___push___
+@array  : 5 6 0
+@array  : 5 6 0 8
+@array  : 5 6 0 8 1 2 3 4 5 6 7 8 9 10
+@other  : 9 0 2 1 0
+@array  : 5 6 0 8 1 2 3 4 5 6 7 8 9 10 9 0 2 1 0
+___shift___
+@array_2 : dino fred barney
+@array_2 : fred barney  $m : dino
+@array_2 : barney       $n : fred
+@array_2 : 
+___unshift___
+@array_2 : 5
+@array_2 : 4 5
+@array_2 : 1 2 3 4 5
+___splice___
+@lemon_1 : apple banana cherry demon ego
+@lemon_1 : apple 				 @moved_1 : banana cherry demon ego
+@lemon_2 : apple banana cherry demon ego
+@lemon_2 : apple demon ego 			 @moved_2 : banana cherry
+@lemon_3 : apple banana cherry demon ego
+@lemon_3 : apple XXX demon ego 			 @moved_3 : banana cherry
+@lemon_4 : apple banana cherry demon ego
+@lemon_4 : apple banana XXXXXX cherry demon ego  @moved_4 : 

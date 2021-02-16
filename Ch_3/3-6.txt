@@ -1,0 +1,43 @@
+___3.6___
+pen
+pineapple
+apple
+pen
+The rocks are:
+	bedrock
+	slate
+	lava
+___3.6.1___
+I can count to 1!
+I can count to 2!
+I can count to 3!
+I can count to 4!
+I can count to 5!
+I can count to 6!
+I can count to 7!
+I can count to 8!
+I can count to 9!
+I can count to 10!
+___3.6.2___
+@fred   : 6 7 8 9 10
+@barney : 10 9 8 7 6
+@wilma  : 10 9 8 7 6
+@fred   : 10 9 8 7 6
+___3.6.3___
+@a        : q w e r t y Q W E R T Y
+@a_sorted : E Q R T W Y e q r t w y
+@a_revers : y w t r q e Y W T R Q E
+@b        : 1 0 2 9 3 4 8 5 7 6
+@b_sorted : 0 1 2 3 4 5 6 7 8 9
+@b_revers : 9 8 7 6 5 4 3 2 1 0
+___3.6.4___
+$index: $value - 0: Jobs
+$index: $value - 1: Gatez
+$index: $value - 2: Trump
+$index: $value - 3: Adam
+$index: $value - 4: Eve
+$index: $friends[0] - 0: Jobs
+$index: $friends[1] - 1: Gatez
+$index: $friends[2] - 2: Trump
+$index: $friends[3] - 3: Adam
+$index: $friends[4] - 4: Eve
